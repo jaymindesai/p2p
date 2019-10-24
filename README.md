@@ -5,7 +5,7 @@
 Clone this repo : 
 
 ```bash
-git clone git@github.ncsu.edu:pmgaikwa/p2p p2p
+git clone git@github.com:jaymindesai/p2p p2p
 
 # switch to directory
 cd p2p
